@@ -48,7 +48,7 @@ module.exports = {
     },
     LGPL3: {
         name: 'GNU Lesser General Public License (LGPL) 3.0',
-        text: require('raw!./licenses/lgpl-2.1.txt'),
+        text: require('raw!./licenses/lgpl-3.0.txt'),
         url: 'http://www.gnu.org/licenses/lgpl-3.0.txt',
         osiApproved: true
     },
